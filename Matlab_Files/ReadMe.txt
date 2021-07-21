@@ -1,0 +1,1 @@
+1-Open Main.mlx and run the code (Note: adjust the code in line 6 and insert your current directory inside "cd" coomand)
