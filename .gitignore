@@ -1,0 +1,24 @@
+ # Simscape Multibody Parts Library
+mathworks-Simscape-Multibody-Parts-Library-24.2.4.1/
+
+# MATLAB temporary files
+*.asv
+*.m~
+*.mex*
+*.mlx~
+*.slx.autosave
+*.slxc
+slprj/
+sccprj/
+
+# MATLAB generated files
+*.mat
+!Spline_mat.mat
+!EE_Traj.mat
+
+# MATLAB backup files
+*.bak
+*.original
+
+# MATLAB code generation folders
+codegen/
